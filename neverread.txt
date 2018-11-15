@@ -1,1 +1,2 @@
 start studying how to use github
+Git is free software distributed under the GPL.
